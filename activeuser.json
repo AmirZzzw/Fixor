@@ -70,5 +70,11 @@
         "key": "Ali",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4e7d3cde41e40825",
+        "key": "Hamidreza",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
