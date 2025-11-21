@@ -52,5 +52,11 @@
         "key": "Ensangar",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b99d15c06d30f4dd",
+        "key": "Kaneki",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
