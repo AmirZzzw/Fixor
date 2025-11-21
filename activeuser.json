@@ -46,5 +46,11 @@
         "key": "0",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e42b1a16a0d17bb2",
+        "key": "Ensangar",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
