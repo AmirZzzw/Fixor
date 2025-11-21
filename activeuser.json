@@ -40,5 +40,11 @@
         "key": "Shervin",
         "expirydate": "22-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9bf49cfb9f2ca238",
+        "key": "0",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
