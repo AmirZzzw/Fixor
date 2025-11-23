@@ -94,5 +94,11 @@
         "key": "Toji",
         "expirydate": "23-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e42b1a16a0d17bb2",
+        "key": "Ahriman",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
     }
 ]
