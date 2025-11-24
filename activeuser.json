@@ -244,5 +244,11 @@
     "key": "Muri",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "afe0d87e59329d02",
+    "key": "Kon bache",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
