@@ -208,5 +208,11 @@
     "key": "Kodex",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "41323e41816b0276",
+    "key": "matin",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
