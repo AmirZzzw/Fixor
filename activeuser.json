@@ -214,5 +214,11 @@
     "key": "matin",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e0591d9b71e903ed",
+    "key": "Dodol",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
