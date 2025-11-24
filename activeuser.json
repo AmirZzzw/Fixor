@@ -160,5 +160,11 @@
     "key": "3b315816926eee10",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "32ea67612b9148a4",
+    "key": "32ea67612b9148a4",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
