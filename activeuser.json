@@ -250,5 +250,11 @@
     "key": "Kon bache",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Test",
+    "key": "Test",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
