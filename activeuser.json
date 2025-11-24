@@ -220,5 +220,11 @@
     "key": "Dodol",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6954576c9862ade6",
+    "key": "HO3EIN",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
