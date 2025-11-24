@@ -202,5 +202,11 @@
     "key": "@urrqzll",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "baa9292c8e66b850",
+    "key": "Kodex",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
