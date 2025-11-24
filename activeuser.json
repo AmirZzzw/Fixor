@@ -184,5 +184,11 @@
     "key": "e42b1a16a0d17bb2",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b4e0b90c509cbef2",
+    "key": "PARSA_FF",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
