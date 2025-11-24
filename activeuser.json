@@ -226,5 +226,11 @@
     "key": "HO3EIN",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d06100022ea992fc",
+    "key": "ariaa",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
