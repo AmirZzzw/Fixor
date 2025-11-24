@@ -148,5 +148,11 @@
     "key": "ATENA",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d081f6006f6b0a44",
+    "key": "Po",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
