@@ -142,5 +142,11 @@
     "key": "/support",
     "expirydate": "24-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c686513b43e53bca",
+    "key": "ATENA",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
