@@ -232,5 +232,11 @@
     "key": "ariaa",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5982e461a6158918",
+    "key": "123",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
