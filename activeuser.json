@@ -196,5 +196,11 @@
     "key": "Pa",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7fb4dcdc519c221f",
+    "key": "@urrqzll",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
