@@ -190,5 +190,11 @@
     "key": "PARSA_FF",
     "expirydate": "25-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "not 8",
+    "key": "Pa",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
