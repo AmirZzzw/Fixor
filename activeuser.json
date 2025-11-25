@@ -286,5 +286,11 @@
     "key": "Akxhjdj",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1d7012fb4a13f1fc",
+    "key": "Tek",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
