@@ -274,5 +274,11 @@
     "key": "amirX",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0bbd7d7ae172e5b8",
+    "key": "Mobin",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
