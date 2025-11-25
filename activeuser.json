@@ -292,5 +292,11 @@
     "key": "Tek",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8ea4d09385dad2e1",
+    "key": "Mad",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
