@@ -268,5 +268,11 @@
     "key": "4e7d3cde41e40825",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d397a37b09376251",
+    "key": "amirX",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
