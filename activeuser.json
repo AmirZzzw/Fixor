@@ -298,5 +298,11 @@
     "key": "Mad",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7598fadb3b4ec22e",
+    "key": "Parham78kurd",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
