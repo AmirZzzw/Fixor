@@ -316,5 +316,11 @@
     "key": "۹۹",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "41323e41816b0276",
+    "key": "41323e41816b0276",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
