@@ -304,5 +304,11 @@
     "key": "Parham78kurd",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4e7d3cde41e40825",
+    "key": "HD",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
