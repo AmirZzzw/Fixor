@@ -322,5 +322,11 @@
     "key": "41323e41816b0276",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95ee920cacd5f9e9",
+    "key": "Parsa",
+    "expirydate": "28-11-2025",
+    "Allowoffline": false
   }
 ]
