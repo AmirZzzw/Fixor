@@ -340,5 +340,11 @@
     "key": "H",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e3c26f5b4b56f8e0",
+    "key": "Mdjsisd",
+    "expirydate": "29-11-2025",
+    "Allowoffline": false
   }
 ]
