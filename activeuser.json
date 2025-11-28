@@ -334,5 +334,11 @@
     "key": "Vertos",
     "expirydate": "30-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4e7d3cde41e40825",
+    "key": "H",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
