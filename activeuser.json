@@ -364,5 +364,11 @@
     "key": "R",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cdd688b3cf65b654",
+    "key": "Javat",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
