@@ -346,5 +346,11 @@
     "key": "Mdjsisd",
     "expirydate": "29-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "636098e9ae9d10bf",
+    "key": "B2k",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
