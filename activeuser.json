@@ -358,5 +358,11 @@
     "key": "KosMadarAbas",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4",
+    "key": "R",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
