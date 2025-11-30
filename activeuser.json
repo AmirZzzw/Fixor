@@ -352,5 +352,11 @@
     "key": "B2k",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9b6f0991d8f7c20b",
+    "key": "KosMadarAbas",
+    "expirydate": "01-12-2025",
+    "Allowoffline": false
   }
 ]
