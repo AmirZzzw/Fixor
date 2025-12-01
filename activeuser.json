@@ -388,5 +388,11 @@
     "key": "ABOLFAZL1",
     "expirydate": "01-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "da70be748cbe5ecd",
+    "key": "Ali0",
+    "expirydate": "02-12-2025",
+    "Allowoffline": false
   }
 ]
