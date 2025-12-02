@@ -40,5 +40,11 @@
     "key": "Ali0",
     "expirydate": "02-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6945b8196306706f",
+    "key": "A1",
+    "expirydate": "03-12-2025",
+    "Allowoffline": false
   }
 ]
