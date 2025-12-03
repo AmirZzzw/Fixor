@@ -46,5 +46,11 @@
     "key": "A1",
     "expirydate": "03-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "41323e41816b0276",
+    "key": "MG",
+    "expirydate": "04-12-2025",
+    "Allowoffline": false
   }
 ]
