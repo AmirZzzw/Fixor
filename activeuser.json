@@ -190,5 +190,11 @@
     "key": "H4x",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0d8e7dfdf2a4e947",
+    "key": "plko",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
