@@ -100,5 +100,11 @@
     "key": "cry",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3b575c9258025801",
+    "key": "MMD",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
