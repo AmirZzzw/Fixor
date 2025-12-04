@@ -124,5 +124,11 @@
     "key": "xward",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a6be7c85e30e03b1",
+    "key": "Mers4d",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
