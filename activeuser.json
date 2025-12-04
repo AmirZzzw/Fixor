@@ -58,5 +58,11 @@
     "key": "Ariya_Senator",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3423fdefe057775c",
+    "key": "X",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
