@@ -52,5 +52,11 @@
     "key": "MG",
     "expirydate": "04-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "18330914ce4327d5",
+    "key": "Ariya_Senator",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
