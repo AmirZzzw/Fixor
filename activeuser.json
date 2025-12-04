@@ -130,5 +130,11 @@
     "key": "Mers4d",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "def6c94142fe27b3",
+    "key": "LORD",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
