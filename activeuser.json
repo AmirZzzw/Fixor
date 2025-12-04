@@ -184,5 +184,11 @@
     "key": "@jdial",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "082fcea9c4210507",
+    "key": "H4x",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
