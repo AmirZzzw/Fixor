@@ -196,5 +196,11 @@
     "key": "plko",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6ba312d1f3c3a146",
+    "key": "6ba312d1f3c3a146",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
