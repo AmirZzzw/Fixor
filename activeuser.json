@@ -94,5 +94,11 @@
     "key": "Aryan10",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2825ee2474c7c0f3",
+    "key": "cry",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
