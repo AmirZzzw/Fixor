@@ -70,5 +70,11 @@
     "key": "X",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "bb663218bc2906f0",
+    "key": "ErFaN_13366",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
