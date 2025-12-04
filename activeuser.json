@@ -118,5 +118,11 @@
     "key": "ad71ab4919dd8b50",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8065e8e631fc9c6b",
+    "key": "xward",
+    "expirydate": "05-12-2025",
+    "Allowoffline": false
   }
 ]
