@@ -226,5 +226,11 @@
     "key": "mahdi",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6af2bd276599a60f",
+    "key": "Tahaff",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
