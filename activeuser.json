@@ -232,5 +232,11 @@
     "key": "Tahaff",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ccebab5b49ff3d7e",
+    "key": "B2K",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
