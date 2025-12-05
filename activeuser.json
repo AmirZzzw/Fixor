@@ -238,5 +238,11 @@
     "key": "B2K",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6ba312d1f3c3a146",
+    "key": "Alioofff",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
