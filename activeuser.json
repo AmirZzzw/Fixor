@@ -76,5 +76,11 @@
     "key": "KENZO444",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "00c84abc1e7cbe8c",
+    "key": "KAMI",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
