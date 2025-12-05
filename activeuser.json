@@ -220,5 +220,11 @@
     "key": "51",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "mahdi",
+    "key": "mahdi",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
