@@ -214,5 +214,11 @@
     "key": "Ehsanff",
     "expirydate": "05-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9bf49cfb9f2ca238",
+    "key": "51",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
