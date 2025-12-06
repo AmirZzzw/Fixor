@@ -88,5 +88,11 @@
     "key": "Koskeshnamard",
     "expirydate": "07-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b6c181a8ed7e71a7",
+    "key": "Parsa",
+    "expirydate": "07-12-2025",
+    "Allowoffline": false
   }
 ]
