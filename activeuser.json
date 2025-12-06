@@ -94,5 +94,11 @@
     "key": "Parsa",
     "expirydate": "07-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95ee920cacd5f9e9",
+    "key": "pari",
+    "expirydate": "07-12-2025",
+    "Allowoffline": false
   }
 ]
