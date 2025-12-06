@@ -118,5 +118,11 @@
     "key": "Xxx",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "82c934c3ef7057ba",
+    "key": "RONALDO",
+    "expirydate": "08-12-2025",
+    "Allowoffline": false
   }
 ]
