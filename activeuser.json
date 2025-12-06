@@ -82,5 +82,11 @@
     "key": "KAMI",
     "expirydate": "06-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ای کونی",
+    "key": "Koskeshnamard",
+    "expirydate": "07-12-2025",
+    "Allowoffline": false
   }
 ]
