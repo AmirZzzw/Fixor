@@ -130,5 +130,11 @@
     "key": "Vabovo",
     "expirydate": "08-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "523e01d3a7c43a51",
+    "key": "523e01d3a7c43a51",
+    "expirydate": "09-12-2025",
+    "Allowoffline": false
   }
 ]
