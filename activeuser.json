@@ -142,11 +142,5 @@
     "key": "Babia",
     "expirydate": "10-12-2025",
     "Allowoffline": false
-  },
-  {
-    "device_id": "🔑 کلید ثبت شد: MMD\n\n💻 حالا Device ID خود را ارسال کنید.\n\n❗️ اگه Device ID خودتون رو ندارید روی این لینک https://t.me/FixorPanel کلیک کنید و از ربات فایل پنل رو بگیرید، سپس وارد پنل شوید و Copy ID رو بزنید و چیزی که کپی شده رو ارسال کنید.",
-    "key": "MMD",
-    "expirydate": "11-12-2025",
-    "Allowoffline": false
   }
 ]
