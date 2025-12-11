@@ -154,5 +154,11 @@
     "key": "Javad",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3d90ca66c642b80b",
+    "key": "Mmdwas",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
