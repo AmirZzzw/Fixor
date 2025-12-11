@@ -148,5 +148,11 @@
     "key": "MMD",
     "expirydate": "12-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b7c7c56447f85993",
+    "key": "Javad",
+    "expirydate": "12-12-2025",
+    "Allowoffline": false
   }
 ]
