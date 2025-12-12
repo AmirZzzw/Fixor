@@ -172,5 +172,11 @@
     "key": "Mk021",
     "expirydate": "13-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f50b0aa101f51679",
+    "key": "f50b0aa101f51679",
+    "expirydate": "13-12-2025",
+    "Allowoffline": false
   }
 ]
