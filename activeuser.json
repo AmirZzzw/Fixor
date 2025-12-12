@@ -160,5 +160,11 @@
     "key": "Mmdwas",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "09c03e5552c928d5",
+    "key": "Amirking you",
+    "expirydate": "13-12-2025",
+    "Allowoffline": false
   }
 ]
