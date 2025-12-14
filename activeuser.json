@@ -82,5 +82,11 @@
     "key": "1212",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f4a5fafe1d33195f",
+    "key": "ASADI",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
