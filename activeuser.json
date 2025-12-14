@@ -118,5 +118,11 @@
     "key": "GGbaby",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": ".",
+    "key": ".",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
