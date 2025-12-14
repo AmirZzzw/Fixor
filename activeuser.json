@@ -70,5 +70,11 @@
     "key": "esi",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8f17f6c07fb00ca0",
+    "key": "mahdi",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
