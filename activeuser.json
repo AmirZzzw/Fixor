@@ -22,5 +22,11 @@
     "key": "Mmdwas",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/info",
+    "key": "Mahyar90",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
