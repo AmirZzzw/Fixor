@@ -34,5 +34,11 @@
     "key": "b2cb6339fbdf8883",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8628cd33d430ae8d",
+    "key": "DARKMAN",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
