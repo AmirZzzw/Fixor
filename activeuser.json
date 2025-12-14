@@ -12,12 +12,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "/support",
-    "key": "/support",
-    "expirydate": "24-12-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "4e7d3cde41e40825",
     "key": "H",
     "expirydate": "31-12-9999",
