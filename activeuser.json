@@ -94,5 +94,11 @@
     "key": "Mk0213",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6ab62243a985bc5e",
+    "key": "125882",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
