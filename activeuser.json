@@ -106,5 +106,11 @@
     "key": "amir",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "05749c476e9ed630",
+    "key": "tobirama",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
