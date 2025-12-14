@@ -58,5 +58,11 @@
     "key": "Vlon",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a5463825e2118952",
+    "key": "Abtin",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
