@@ -40,5 +40,11 @@
     "key": "DARKMAN",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "78da6ac9a72ecf7e",
+    "key": "Akaza",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
