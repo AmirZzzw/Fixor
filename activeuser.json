@@ -28,5 +28,11 @@
     "key": "Mahyar90",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b2cb6339fbdf8883",
+    "key": "b2cb6339fbdf8883",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
