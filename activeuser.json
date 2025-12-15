@@ -184,5 +184,11 @@
     "key": "123456",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5982967553efe4a5",
+    "key": "BL4CK",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
