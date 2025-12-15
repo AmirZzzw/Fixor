@@ -130,5 +130,11 @@
     "key": "335c44c0516f8e57",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Redmi note 14",
+    "key": "X Shot",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
