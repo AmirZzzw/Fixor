@@ -160,5 +160,11 @@
     "key": "Ehsan",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6ba312d1f3c3a146",
+    "key": "Offf",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
