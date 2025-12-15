@@ -166,5 +166,11 @@
     "key": "Offf",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f3969b71b2c79961",
+    "key": "MMD",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
