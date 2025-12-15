@@ -190,5 +190,11 @@
     "key": "BL4CK",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "45bc6f6faa1bb844",
+    "key": "AmirAbbas",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
