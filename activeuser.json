@@ -142,5 +142,11 @@
     "key": "Nana12",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5c6f23932e961ee4",
+    "key": "26",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
