@@ -220,5 +220,11 @@
     "key": "NEXOM",
     "expirydate": "17-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b9c89bb96d6545e7",
+    "key": "b9c89bb96d6545e7",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
