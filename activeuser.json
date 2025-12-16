@@ -226,5 +226,11 @@
     "key": "b9c89bb96d6545e7",
     "expirydate": "17-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3423fdefe057775c",
+    "key": "MR",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
