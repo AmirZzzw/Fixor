@@ -202,5 +202,11 @@
     "key": "iran",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c59950bba5957546",
+    "key": "c59950bba5957546",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
