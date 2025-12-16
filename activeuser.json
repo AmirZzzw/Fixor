@@ -232,5 +232,11 @@
     "key": "MR",
     "expirydate": "17-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5982967553efe4a5",
+    "key": "5982967553efe4a5",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
