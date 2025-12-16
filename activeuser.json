@@ -214,5 +214,11 @@
     "key": "Mahan",
     "expirydate": "17-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5d09e7b2ac58d288",
+    "key": "NEXOM",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
