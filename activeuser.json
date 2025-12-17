@@ -256,5 +256,11 @@
     "key": "MmdNicolas",
     "expirydate": "18-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "92b36261c30b9866",
+    "key": "Unknown",
+    "expirydate": "19-12-2025",
+    "Allowoffline": false
   }
 ]
