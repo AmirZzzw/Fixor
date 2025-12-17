@@ -244,5 +244,11 @@
     "key": "Aligh14",
     "expirydate": "17-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ddc6440589c1d192",
+    "key": "1391",
+    "expirydate": "18-12-2025",
+    "Allowoffline": false
   }
 ]
