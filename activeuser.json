@@ -262,5 +262,11 @@
     "key": "sattar",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e34157025cd5b7c3",
+    "key": "SoniXDaNi",
+    "expirydate": "19-12-2025",
+    "Allowoffline": false
   }
 ]
