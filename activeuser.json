@@ -22,5 +22,11 @@
     "key": "sattar",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ea48c6d5a9364ec6",
+    "key": "amir",
+    "expirydate": "20-12-2025",
+    "Allowoffline": false
   }
 ]
