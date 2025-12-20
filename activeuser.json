@@ -40,5 +40,11 @@
     "key": "MMD",
     "expirydate": "21-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7466a5bc2fa3e7b6",
+    "key": "BdahSonix",
+    "expirydate": "21-12-2025",
+    "Allowoffline": false
   }
 ]
