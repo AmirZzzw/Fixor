@@ -1,50 +1,56 @@
 [
-  {
-    "device_id": "4e7d3cde41e40825",
-    "key": "H",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "4ae7b5fb360faf72",
-    "key": "E",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "3d90ca66c642b80b",
-    "key": "Mmdwas",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "86fe044a25e00d15",
-    "key": "sattar",
-    "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "ea48c6d5a9364ec6",
-    "key": "amir",
-    "expirydate": "20-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "2c0e7e5de6f4b42b",
-    "key": "2c0e7e5de6f4b42b",
-    "expirydate": "20-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a0727bea3bdfd526",
-    "key": "MMD",
-    "expirydate": "21-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "7466a5bc2fa3e7b6",
-    "key": "BdahSonix",
-    "expirydate": "21-12-2025",
-    "Allowoffline": false
-  }
+    {
+        "device_id": "4e7d3cde41e40825",
+        "key": "H",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4ae7b5fb360faf72",
+        "key": "E",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3d90ca66c642b80b",
+        "key": "Mmdwas",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "86fe044a25e00d15",
+        "key": "sattar",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ea48c6d5a9364ec6",
+        "key": "amir",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2c0e7e5de6f4b42b",
+        "key": "2c0e7e5de6f4b42b",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a0727bea3bdfd526",
+        "key": "MMD",
+        "expirydate": "21-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7466a5bc2fa3e7b6",
+        "key": "BdahSonix",
+        "expirydate": "21-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "52eabc6232b240d6",
+        "key": "Vertos",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    }
 ]
