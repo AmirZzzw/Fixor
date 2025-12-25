@@ -58,5 +58,11 @@
     "key": "mahan",
     "expirydate": "24-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "79a19b88bc73ee34",
+    "key": "DDDAAA",
+    "expirydate": "26-12-2025",
+    "Allowoffline": false
   }
 ]
