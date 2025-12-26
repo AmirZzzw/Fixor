@@ -24,45 +24,9 @@
     "Allowoffline": false
   },
   {
-    "device_id": "ea48c6d5a9364ec6",
-    "key": "amir",
-    "expirydate": "20-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "2c0e7e5de6f4b42b",
-    "key": "2c0e7e5de6f4b42b",
-    "expirydate": "20-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a0727bea3bdfd526",
-    "key": "MMD",
-    "expirydate": "21-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "7466a5bc2fa3e7b6",
-    "key": "BdahSonix",
-    "expirydate": "21-12-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "52eabc6232b240d6",
     "key": "Vertos",
     "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "2b98a158d20bf6a3",
-    "key": "mahan",
-    "expirydate": "24-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "79a19b88bc73ee34",
-    "key": "DDDAAA",
-    "expirydate": "26-12-2025",
     "Allowoffline": false
   }
 ]
