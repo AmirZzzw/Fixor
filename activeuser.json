@@ -28,5 +28,11 @@
     "key": "Vertos",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/support",
+    "key": "/info",
+    "expirydate": "30-12-2025",
+    "Allowoffline": false
   }
 ]
