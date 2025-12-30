@@ -100,5 +100,11 @@
     "key": "امید",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "92b36261c30b9866",
+    "key": "None",
+    "expirydate": "30-01-2026",
+    "Allowoffline": false
   }
 ]
