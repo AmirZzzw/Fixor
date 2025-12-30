@@ -28,5 +28,11 @@
     "key": "Vertos",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f6bdc7ba64f79553",
+    "key": "Assassin",
+    "expirydate": "29-01-2026",
+    "Allowoffline": false
   }
 ]
