@@ -70,5 +70,11 @@
     "key": "ss",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "57aaf59261008884",
+    "key": "Amirali",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
