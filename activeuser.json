@@ -46,5 +46,11 @@
     "key": "Aghebat",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "89e5f7bb5031b4d1",
+    "key": "Ahmadreza1shirvani",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
