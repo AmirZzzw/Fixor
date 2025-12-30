@@ -34,5 +34,11 @@
     "key": "Assassin",
     "expirydate": "29-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e7d921a8231203f9",
+    "key": "ABAS_GALB",
+    "expirydate": "29-01-2026",
+    "Allowoffline": false
   }
 ]
