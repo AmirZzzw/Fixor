@@ -52,5 +52,11 @@
     "key": "Ahmadreza1shirvani",
     "expirydate": "31-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1f684911d9068691",
+    "key": "1f684911d9068691",
+    "expirydate": "29-01-2026",
+    "Allowoffline": false
   }
 ]
