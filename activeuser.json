@@ -40,5 +40,11 @@
     "key": "ABAS_GALB",
     "expirydate": "29-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "92b36261c30b9866",
+    "key": "Aghebat",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
   }
 ]
