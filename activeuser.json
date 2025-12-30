@@ -88,5 +88,11 @@
     "key": "۸۵ ۸۵",
     "expirydate": "29-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d5fff249b5fb8d9e",
+    "key": "۶۹ ۶۹",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
