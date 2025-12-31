@@ -130,5 +130,11 @@
     "key": "Ehsan",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ab90cb682a52c199",
+    "key": "Amir1390_006",
+    "expirydate": "30-01-2026",
+    "Allowoffline": false
   }
 ]
