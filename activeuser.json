@@ -142,5 +142,11 @@
     "key": "Amir 2026",
     "expirydate": "01-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/info",
+    "key": "parsa",
+    "expirydate": "01-01-2026",
+    "Allowoffline": false
   }
 ]
