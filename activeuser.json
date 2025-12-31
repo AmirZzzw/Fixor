@@ -136,5 +136,11 @@
     "key": "Amir1390_006",
     "expirydate": "30-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "bb663218bc2906f0",
+    "key": "Hoseyn",
+    "expirydate": "30-01-2026",
+    "Allowoffline": false
   }
 ]
