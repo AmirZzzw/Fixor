@@ -130,23 +130,5 @@
     "key": "Hoseyn",
     "expirydate": "30-01-2026",
     "Allowoffline": false
-  },
-  {
-    "device_id": "92cc3592a7275a10",
-    "key": "92cc3592a7275a10",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "07574fe66dcd0181",
-    "key": "Amir 2026",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "/info",
-    "key": "parsa",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false
   }
 ]
