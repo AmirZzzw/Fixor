@@ -130,5 +130,11 @@
     "key": "Sajad",
     "expirydate": "31-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "19e3fae0e88ea292",
+    "key": "Yas",
+    "expirydate": "03-01-2026",
+    "Allowoffline": false
   }
 ]
