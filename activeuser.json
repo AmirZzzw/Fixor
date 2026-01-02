@@ -148,5 +148,11 @@
     "key": "52869d72bce87200",
     "expirydate": "01-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Yas",
+    "key": "95",
+    "expirydate": "03-01-2026",
+    "Allowoffline": false
   }
 ]
