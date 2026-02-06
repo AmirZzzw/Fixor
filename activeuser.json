@@ -70,5 +70,11 @@
     "key": "BOX",
     "expirydate": "08-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a595053774deaaf9",
+    "key": "mahan.89",
+    "expirydate": "08-02-2026",
+    "Allowoffline": false
   }
 ]
