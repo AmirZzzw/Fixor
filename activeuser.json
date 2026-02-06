@@ -64,5 +64,11 @@
     "key": "کیر تو عباس",
     "expirydate": "08-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "da70be748cbe5ecd",
+    "key": "BOX",
+    "expirydate": "08-02-2026",
+    "Allowoffline": false
   }
 ]
