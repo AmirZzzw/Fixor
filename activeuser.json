@@ -30,81 +30,15 @@
     "Allowoffline": false
   },
   {
-    "device_id": "f6bdc7ba64f79553",
-    "key": "Assassin",
-    "expirydate": "29-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "e7d921a8231203f9",
-    "key": "ABAS_GALB",
-    "expirydate": "29-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "1f684911d9068691",
-    "key": "1f684911d9068691",
-    "expirydate": "29-01-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "e0c2ccdd6b20b57c",
     "key": "Arian",
     "expirydate": "31-12-9999",
     "Allowoffline": false
   },
   {
-    "device_id": "c59950bba5957546",
-    "key": "c59950bba5957546",
-    "expirydate": "29-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "d5fff249b5fb8d9e",
-    "key": "۸۵ ۸۵",
-    "expirydate": "29-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "92b36261c30b9866",
-    "key": "None",
-    "expirydate": "30-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "ab90cb682a52c199",
-    "key": "Amir1390_006",
-    "expirydate": "30-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "bb663218bc2906f0",
-    "key": "Hoseyn",
-    "expirydate": "30-01-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "91173ebf78c80e9a",
-    "key": "Sajad",
-    "expirydate": "31-01-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "Yas",
     "key": "19e3fae0e88ea292",
     "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "52869d72bce87200",
-    "key": "52869d72bce87200",
-    "expirydate": "01-02-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "19e3fae0e88ea292",
-    "key": "95",
-    "expirydate": "02-02-2026",
     "Allowoffline": false
   }
 ]
