@@ -94,5 +94,11 @@
     "key": "123456789",
     "expirydate": "08-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b712aae015d11934",
+    "key": "CS_ARASH",
+    "expirydate": "08-02-2026",
+    "Allowoffline": false
   }
 ]
