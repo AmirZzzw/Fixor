@@ -100,5 +100,11 @@
     "key": "CS_ARASH",
     "expirydate": "08-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "db8674944d3aef10",
+    "key": "Amirmahdi008",
+    "expirydate": "08-02-2026",
+    "Allowoffline": false
   }
 ]
