@@ -112,5 +112,11 @@
         "key": "Assasins",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8ff2abd729933c17",
+        "key": "Parsa",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
