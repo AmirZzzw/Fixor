@@ -124,5 +124,11 @@
         "key": "Mostafaffx",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b712aae015d11934",
+        "key": "CA_ARASH",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
