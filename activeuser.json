@@ -220,5 +220,11 @@
     "key": "ABOLMA",
     "expirydate": "09-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "کص",
+    "key": "کیرم",
+    "expirydate": "10-02-2026",
+    "Allowoffline": false
   }
 ]
