@@ -190,5 +190,11 @@
     "key": "Heidhruhreus",
     "expirydate": "09-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6bd83661d5738db2",
+    "key": "6bd83661d5738db2",
+    "expirydate": "09-02-2026",
+    "Allowoffline": false
   }
 ]
