@@ -214,5 +214,11 @@
     "key": "Ehsan0021",
     "expirydate": "09-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "68d1e513dba916ef",
+    "key": "ABOLMA",
+    "expirydate": "09-02-2026",
+    "Allowoffline": false
   }
 ]
