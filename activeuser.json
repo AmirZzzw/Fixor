@@ -202,5 +202,11 @@
     "key": "1148e29157bcd229",
     "expirydate": "09-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "pc",
+    "key": "h271",
+    "expirydate": "09-02-2026",
+    "Allowoffline": false
   }
 ]
