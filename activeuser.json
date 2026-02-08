@@ -118,5 +118,11 @@
         "key": "Parsa",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c1668c678beedd85",
+        "key": "Mostafaffx",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
