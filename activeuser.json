@@ -172,5 +172,11 @@
     "key": "Amir",
     "expirydate": "09-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "A05S",
+    "key": "Mahan",
+    "expirydate": "09-02-2026",
+    "Allowoffline": false
   }
 ]
