@@ -232,5 +232,11 @@
     "key": "meshki",
     "expirydate": "10-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0cf35e0dca878c38",
+    "key": "MMD",
+    "expirydate": "10-02-2026",
+    "Allowoffline": false
   }
 ]
