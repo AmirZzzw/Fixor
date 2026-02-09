@@ -226,5 +226,11 @@
     "key": "کیرم",
     "expirydate": "10-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "⚠️ این پیام بعد از آپدیت لینک فوراً به‌روزرسانی میشود!\n\nلینک دانلود پنل: اینجا کلیک کنید",
+    "key": "meshki",
+    "expirydate": "10-02-2026",
+    "Allowoffline": false
   }
 ]
