@@ -244,5 +244,11 @@
     "key": "/support",
     "expirydate": "10-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "567f4658292e731d",
+    "key": "CraZy",
+    "expirydate": "10-02-2026",
+    "Allowoffline": false
   }
 ]
