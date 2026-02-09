@@ -238,5 +238,11 @@
     "key": "MMD",
     "expirydate": "10-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/info",
+    "key": "/support",
+    "expirydate": "10-02-2026",
+    "Allowoffline": false
   }
 ]
