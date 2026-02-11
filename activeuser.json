@@ -250,5 +250,11 @@
         "key": "CraZy",
         "expirydate": "10-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c403d143292d90bb",
+        "key": "Haji_007",
+        "expirydate": "30-02-2026",
+        "Allowoffline": false
     }
 ]
