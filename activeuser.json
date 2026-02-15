@@ -388,5 +388,11 @@
     "key": "M0067",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "65696a5a0cc3e85b",
+    "key": "Omid",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
