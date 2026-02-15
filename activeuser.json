@@ -316,5 +316,11 @@
     "key": "Mmdi1212",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6c46b8682f33b4c4",
+    "key": "MR_KING",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
