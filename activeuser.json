@@ -298,5 +298,11 @@
     "key": "AmirX",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "7fbd692a2f112ec8",
+    "key": "vrx-ff",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
