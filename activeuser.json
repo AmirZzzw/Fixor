@@ -358,5 +358,11 @@
     "key": "MY_LOVE_NIKA",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3e6651d43d8d1f33",
+    "key": "Sonami",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
