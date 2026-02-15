@@ -400,5 +400,11 @@
     "key": "Ahhh",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c2da3475d8233291",
+    "key": "فکثور",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
