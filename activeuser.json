@@ -262,5 +262,11 @@
     "key": "26",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d1826b609cb4a872",
+    "key": "alimani",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
