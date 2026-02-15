@@ -406,5 +406,11 @@
     "key": "فکثور",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3e6651d43d8d1f33",
+    "key": "SONAMIPANEL",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
