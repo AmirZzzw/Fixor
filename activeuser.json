@@ -346,5 +346,11 @@
     "key": "XXX",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c4e032a0fab7dc3c",
+    "key": "emran_88",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
