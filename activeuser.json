@@ -322,5 +322,11 @@
     "key": "MR_KING",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d5fff249b5fb8d9e",
+    "key": "۸۵",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
