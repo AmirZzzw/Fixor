@@ -304,5 +304,11 @@
     "key": "vrx-ff",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cfa9cddc048617c7",
+    "key": "5596",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
