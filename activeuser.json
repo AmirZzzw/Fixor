@@ -292,5 +292,11 @@
     "key": "c59950bba5957546",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cfa9cddc048617c7",
+    "key": "AmirX",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
