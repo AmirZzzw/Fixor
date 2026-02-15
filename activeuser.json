@@ -310,5 +310,11 @@
     "key": "5596",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b12da6f886179761",
+    "key": "Mmdi1212",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
