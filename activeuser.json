@@ -364,5 +364,11 @@
     "key": "Sonami",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3c7bec443c903da7",
+    "key": "shklvb23t",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
