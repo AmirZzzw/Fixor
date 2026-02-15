@@ -328,5 +328,11 @@
     "key": "۸۵",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "68d1e513dba916ef",
+    "key": "ABOL26",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
