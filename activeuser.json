@@ -352,5 +352,11 @@
     "key": "emran_88",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e7d921a8231203f9",
+    "key": "MY_LOVE_NIKA",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
