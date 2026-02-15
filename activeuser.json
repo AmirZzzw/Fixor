@@ -340,5 +340,11 @@
     "key": "81a830ede1c405ea",
     "expirydate": "16-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "شیائومی",
+    "key": "XXX",
+    "expirydate": "16-02-2026",
+    "Allowoffline": false
   }
 ]
