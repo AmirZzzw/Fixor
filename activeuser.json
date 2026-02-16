@@ -82,5 +82,11 @@
     "key": "btyuj",
     "expirydate": "17-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "09c38ca9bc3fd600",
+    "key": "submais.com/a45b9",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
