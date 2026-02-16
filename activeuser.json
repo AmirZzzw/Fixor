@@ -118,5 +118,11 @@
     "key": "13851388",
     "expirydate": "17-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1f08862fd0c135f8",
+    "key": "BSOBDE",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
