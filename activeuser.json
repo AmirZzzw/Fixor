@@ -100,5 +100,11 @@
     "key": "salim_8093",
     "expirydate": "17-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d67a9c9a24ab3e3c",
+    "key": "Sigmaboym12",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
