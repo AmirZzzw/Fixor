@@ -412,5 +412,11 @@
     "key": "SONAMIPANEL",
     "expirydate": "17-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "5599fe6e6cc76448",
+    "key": "btyuj",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
