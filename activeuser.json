@@ -106,5 +106,11 @@
     "key": "Sigmaboym12",
     "expirydate": "17-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "19e3fae0e88ea292",
+    "key": "26",
+    "expirydate": "17-02-2026",
+    "Allowoffline": false
   }
 ]
