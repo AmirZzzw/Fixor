@@ -148,5 +148,11 @@
     "key": "c4e032a0fab7dc3c",
     "expirydate": "18-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e9d1bbae93866b9b",
+    "key": "Amir",
+    "expirydate": "18-02-2026",
+    "Allowoffline": false
   }
 ]
