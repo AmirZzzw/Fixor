@@ -172,5 +172,11 @@
     "key": "Sonami",
     "expirydate": "19-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3e732bc05c90806a",
+    "key": "MR MMD",
+    "expirydate": "19-02-2026",
+    "Allowoffline": false
   }
 ]
