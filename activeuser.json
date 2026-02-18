@@ -178,5 +178,11 @@
     "key": "MR MMD",
     "expirydate": "19-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "فکثور",
+    "key": "Haker",
+    "expirydate": "19-02-2026",
+    "Allowoffline": false
   }
 ]
