@@ -190,5 +190,11 @@
     "key": "کی",
     "expirydate": "20-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6c46b8682f33b4c4",
+    "key": "derama",
+    "expirydate": "20-02-2026",
+    "Allowoffline": false
   }
 ]
