@@ -196,5 +196,11 @@
     "key": "derama",
     "expirydate": "20-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "11718c56c2ba37df",
+    "key": "Gods",
+    "expirydate": "21-02-2026",
+    "Allowoffline": false
   }
 ]
