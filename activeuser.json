@@ -208,5 +208,11 @@
     "key": "fire",
     "expirydate": "21-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e33a5569ef50e98b",
+    "key": "Rio",
+    "expirydate": "22-02-2026",
+    "Allowoffline": false
   }
 ]
