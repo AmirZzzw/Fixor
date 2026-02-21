@@ -220,5 +220,11 @@
     "key": "Mamal",
     "expirydate": "22-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9660e430aada83e3",
+    "key": "ALIM2",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
