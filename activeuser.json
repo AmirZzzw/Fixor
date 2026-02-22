@@ -268,5 +268,11 @@
     "key": "v00",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6c46b8682f33b4c4",
+    "key": "fax",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
