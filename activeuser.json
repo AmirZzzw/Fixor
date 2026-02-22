@@ -274,5 +274,11 @@
     "key": "fax",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6e65037aec1aed0c",
+    "key": "@awmirhosein_redaei",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
