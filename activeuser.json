@@ -232,5 +232,11 @@
     "key": "Yahya",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e33a5569ef50e98b",
+    "key": "RIOO",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
