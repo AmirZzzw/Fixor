@@ -238,5 +238,11 @@
     "key": "RIOO",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "11718c56c2ba37df",
+    "key": "11718c56c2ba37df",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false
   }
 ]
