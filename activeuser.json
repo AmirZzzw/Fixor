@@ -280,5 +280,11 @@
     "key": "@awmirhosein_redaei",
     "expirydate": "23-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9660e430aada83e3",
+    "key": "ALI",
+    "expirydate": "24-02-2026",
+    "Allowoffline": false
   }
 ]
