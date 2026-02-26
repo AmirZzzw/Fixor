@@ -298,5 +298,11 @@
     "key": "مصطفی",
     "expirydate": "25-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "11718c56c2ba37df",
+    "key": "GGTO",
+    "expirydate": "27-02-2026",
+    "Allowoffline": false
   }
 ]
