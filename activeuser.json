@@ -304,5 +304,11 @@
     "key": "GGTO",
     "expirydate": "27-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "SidkaTest1",
+    "key": "SidkaTest1",
+    "expirydate": "02-06-2026",
+    "Allowoffline": false
   }
 ]
