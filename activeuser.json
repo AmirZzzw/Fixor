@@ -346,5 +346,11 @@
     "key": "Vinor",
     "expirydate": "05-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b55ee25c899d247b",
+    "key": "amir50",
+    "expirydate": "06-06-2026",
+    "Allowoffline": false
   }
 ]
