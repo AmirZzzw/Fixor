@@ -328,5 +328,11 @@
     "key": "M",
     "expirydate": "05-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0bfaf1c28eca6040",
+    "key": "DANIX",
+    "expirydate": "05-06-2026",
+    "Allowoffline": false
   }
 ]
