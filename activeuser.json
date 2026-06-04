@@ -334,5 +334,11 @@
     "key": "DANIX",
     "expirydate": "05-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b295f8fa6d4aafb8",
+    "key": "vloneLifewe",
+    "expirydate": "05-06-2026",
+    "Allowoffline": false
   }
 ]
