@@ -322,5 +322,11 @@
     "key": "QanIOI",
     "expirydate": "05-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ed7e00864f97de6f",
+    "key": "M",
+    "expirydate": "05-06-2026",
+    "Allowoffline": false
   }
 ]
