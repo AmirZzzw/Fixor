@@ -310,5 +310,11 @@
     "key": "SidkaTest1",
     "expirydate": "02-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/support",
+    "key": "/info",
+    "expirydate": "05-06-2026",
+    "Allowoffline": false
   }
 ]
