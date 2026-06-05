@@ -352,5 +352,11 @@
     "key": "amir50",
     "expirydate": "06-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3e6651d43d8d1f33",
+    "key": "@SONAMI13",
+    "expirydate": "07-06-2026",
+    "Allowoffline": false
   }
 ]
