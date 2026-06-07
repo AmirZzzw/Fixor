@@ -364,5 +364,11 @@
     "key": "Saleh",
     "expirydate": "08-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "52eabc6232b240d6",
+    "key": "Kalrhe",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
