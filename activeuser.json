@@ -94,5 +94,11 @@
     "key": "Vihanjooon",
     "expirydate": "08-06-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "https://www.mediafire.com/file/s4hwak89f9aqsca/Fixor_Panel.apk/file",
+    "key": "@OMIDLORM",
+    "expirydate": "13-06-2026",
+    "Allowoffline": false
   }
 ]
